@@ -15,10 +15,6 @@ SSC (10th)
 - Python (Learning)
 
 ## Projects
-
-### Superstore Sales Data Analysis
-## Projects
-
 ### Superstore Sales Data Analysis
 
 Description:
