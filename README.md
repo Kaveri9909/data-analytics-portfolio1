@@ -17,8 +17,26 @@ SSC (10th)
 ## Projects
 
 ### Superstore Sales Data Analysis
-Tools: Microsoft Excel
-In this project I analyzed a retail sales dataset and created charts to identify trends by category, region, and customer segment.
+## Projects
+
+### Superstore Sales Data Analysis
+
+Description:
+Analyzed a retail sales dataset to understand business performance.
+
+Tools Used:
+- Microsoft Excel
+
+Analysis Performed:
+- Total Sales Calculation
+- Sales by Category
+- Sales by Region
+- Sales by Customer Segment
+- Top 10 Products by Sales
+
+Files:
+- Superstore_Sales_Analysis.xlsx
+- Dashboard Screenshot
 
 ## Certificates
 - Data Analytics Certificate
