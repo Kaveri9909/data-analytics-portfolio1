@@ -31,10 +31,25 @@ Marks: 510 Marks (8.5)
 - Python (Learning)
 
 ## Projects
-### Superstore Sales Analysis
-Click below to view the project:
 
-[Open Project](link_here)
+### Superstore Sales Data Analysis
+
+Description:
+Analyzed a retail sales dataset to understand business performance.
+
+Tools Used:
+- Microsoft Excel
+
+Analysis Performed:
+- Total Sales Calculation
+- Sales by Category
+- Sales by Region
+- Sales by Customer Segment
+- Top 10 Products by Sales
+
+Files:
+- Superstore_Sales_Analysis.xlsx
+- Dashboard Screenshot
 
 ## Certificates
 - Data Analytics Certificate
